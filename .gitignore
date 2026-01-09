@@ -1,69 +1,51 @@
-# Python
+# Environment variables and secrets
+
+# Python cache files
 __pycache__/
 *.py[cod]
 *$py.class
 *.so
 .Python
-build/
-develop-eggs/
+.pytest_cache/
+
+# Distribution / packaging
 dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-wheels/
+build/
 *.egg-info/
-.installed.cfg
-*.egg
-MANIFEST
 
 # Virtual environments
 venv/
 env/
 ENV/
-env.bak/
-venv.bak/
 
-# IDE
-.vscode/
-.idea/
-*.swp
-*.swo
-*~
+# Conda environment
+work_management/
 
-# macOS
-.DS_Store
-.AppleDouble
-.LSOverride
-
-# Logs
-*.log
+# Logs and data files
 logs/
-
-# Data files
+*.log
 data/
 *.db
 *.sqlite
 *.sqlite3
 
-# Environment variables
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Configuration files that might contain sensitive information
+# config*.yaml - Uncomment this if your config files should not be versioned
+
+# Test coverage
+.coverage
+htmlcov/ 
+# Browser Profile
+chrome_profile/
+
+# Junk
+~/
+
 .env
-.env.local
-.env.*.local
-
-# Temporary files
-*.tmp
-*.temp
-temp/
-tmp/
-
-# AI generated files
-*_summary_*.txt
-*_transcript_*.txt
-*_ai_summary_*.txt
-*_real_*.txt
-*_sample_*.txt

@@ -1,0 +1,30 @@
+Meeting: Mohawk - Questionnaire Review - Prechecker installed 2025-10-02 at 14.30.08
+Date: 2025-10-02
+ID: u8vlsJ4NOUqE0lfvYD1huK6ZZ88
+Extracted: 2025-10-02 18:36:56
+================================================================================
+
+TRANSCRIPT:
+----------------------------------------
+
+================================================================================
+
+SUMMARY:
+----------------------------------------
+The meeting focused on reviewing the Mohawk prechecker installation and configuring the questionnaire for a security assessment. Key points included scanning three domains, validating service accounts, and ensuring trust relationships. The team discussed the need for a service account with specific permissions and the importance of vaulting and password management for service accounts. They also addressed the classification of privileged accounts, including domain admins, CSA accounts, and local accounts, and the need for inventorying and managing these accounts. The next steps involve setting up the scan server, running the prerequisite checker, and configuring the necessary credentials for the assessment.
+
+================================================================================
+
+ACTION ITEMS:
+----------------------------------------
+1. Provide the updated account classification and policy definitions to Russell.
+2. Download and run the pre-requisite checker tool as the service account, ensuring it has the necessary permissions.
+3. Provide the list of Windows, Unix, and SQL server FQDNs to Kristin.
+4. Confirm the service account has the required permissions to scan the Windows, Unix, and SQL servers.
+5. Reach out to Kristin if any issues are encountered while running the pre-requisite checker tool.
+6. Add action item
+
+================================================================================
+
+INSIGHTS:
+----------------------------------------

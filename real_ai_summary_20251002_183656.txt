@@ -1,0 +1,14 @@
+AI SUMMARY - Mohawk - Questionnaire Review - Prechecker installed 2025-10-02 at 14.30.08
+Generated: 2025-10-02 18:36:56
+================================================================================
+
+MEETING OVERVIEW:
+- Original summary: The meeting focused on reviewing the Mohawk prechecker installation and configuring the questionnaire for a security assessment. Key points included scanning three domains, validating service accounts...
+
+ACTION ITEMS:
+1. Provide the updated account classification and policy definitions to Russell.
+2. Download and run the pre-requisite checker tool as the service account, ensuring it has the necessary permissions.
+3. Provide the list of Windows, Unix, and SQL server FQDNs to Kristin.
+4. Confirm the service account has the required permissions to scan the Windows, Unix, and SQL servers.
+5. Reach out to Kristin if any issues are encountered while running the pre-requisite checker tool.
+6. Add action item

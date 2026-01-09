@@ -1,0 +1,44 @@
+Meeting: Sample Meeting - Product Planning Discussion
+Date: 2025-01-02 14:30:00
+ID: sample_meeting_001
+================================================================================
+
+TRANSCRIPT:
+----------------------------------------
+[00:00] John: Welcome everyone to our product planning meeting. Let's start by reviewing our Q1 objectives.
+[00:15] Sarah: Thanks John. I've prepared the roadmap for our new features. The main focus should be on user experience improvements.
+[00:30] Mike: I agree with Sarah. We need to prioritize the mobile app redesign. Our current metrics show a 15% drop in mobile engagement.
+[00:45] John: That's a significant drop. What's our timeline for the mobile redesign?
+[01:00] Sarah: We're looking at 6-8 weeks for the complete redesign. We can start with the core user flows first.
+[01:15] Mike: Perfect. I'll coordinate with the design team to get the wireframes ready by next week.
+[01:30] John: Great. Let's also discuss the analytics dashboard. Sarah, what's the status on that?
+[01:45] Sarah: The analytics dashboard is 80% complete. We're just waiting for the final API integrations.
+[02:00] Mike: Excellent. That should be ready for testing by the end of the month.
+[02:15] John: Perfect. Any other items we need to cover today?
+[02:30] Sarah: Just one more thing - we need to finalize the budget allocation for the marketing campaign.
+[02:45] Mike: I'll send the updated budget proposal by tomorrow. Should we schedule a follow-up meeting?
+[03:00] John: Yes, let's meet again next Friday to review progress. Thanks everyone for a productive meeting.
+
+================================================================================
+
+SUMMARY:
+----------------------------------------
+Product planning meeting focused on Q1 objectives, mobile app redesign, and analytics dashboard development. Key decisions made on timeline and budget allocation.
+
+================================================================================
+
+ACTION ITEMS:
+----------------------------------------
+1. Coordinate with design team for mobile app wireframes
+2. Complete analytics dashboard API integrations
+3. Send updated budget proposal for marketing campaign
+4. Schedule follow-up meeting for next Friday
+
+================================================================================
+
+INSIGHTS:
+----------------------------------------
+1. Mobile engagement has dropped 15% - urgent need for redesign
+2. Analytics dashboard is 80% complete and on track
+3. Team alignment on Q1 priorities is strong
+4. Budget allocation needs finalization for marketing campaign

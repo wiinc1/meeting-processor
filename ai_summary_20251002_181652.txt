@@ -1,0 +1,37 @@
+AI SUMMARY - Sample Meeting - Product Planning Discussion
+Generated: 2025-10-02 18:16:52
+================================================================================
+
+MEETING OVERVIEW:
+- Original summary: Product planning meeting focused on Q1 objectives, mobile app redesign, and analytics dashboard development. Key decisions made on timeline and budget allocation.
+
+KEY TOPICS:
+- john: (mentioned 5 times)
+- sarah: (mentioned 4 times)
+- mike: (mentioned 4 times)
+- let's (mentioned 3 times)
+- need (mentioned 3 times)
+- mobile (mentioned 3 times)
+- everyone (mentioned 2 times)
+- meeting. (mentioned 2 times)
+- start (mentioned 2 times)
+- thanks (mentioned 2 times)
+
+ACTION ITEMS:
+1. Coordinate with design team for mobile app wireframes
+2. Complete analytics dashboard API integrations
+3. Send updated budget proposal for marketing campaign
+4. Schedule follow-up meeting for next Friday
+
+KEY INSIGHTS:
+1. Mobile engagement has dropped 15% - urgent need for redesign
+2. Analytics dashboard is 80% complete and on track
+3. Team alignment on Q1 priorities is strong
+4. Budget allocation needs finalization for marketing campaign
+
+TRANSCRIPT HIGHLIGHTS:
+- [00:00] John: Welcome everyone to our product planning meeting. Let's start by reviewing our Q1 objectives.
+- [00:15] Sarah: Thanks John. I've prepared the roadmap for our new features. The main focus should be on user experience improvements.
+- [00:30] Mike: I agree with Sarah. We need to prioritize the mobile app redesign. Our current metrics show a 15% drop in mobile engagement.
+- [00:45] John: That's a significant drop. What's our timeline for the mobile redesign?
+- [01:00] Sarah: We're looking at 6-8 weeks for the complete redesign. We can start with the core user flows first.

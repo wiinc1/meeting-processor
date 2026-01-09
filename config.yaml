@@ -1,0 +1,4 @@
+notion_activities_db: 86e4319e-46c6-4c26-8c2a-d14f13ce32f9
+notion_tasks_db: 1f5c54e7-c4ed-804c-9d8a-eaf3d4d91d02
+max_meetings: 5
+log_file_path: otter_notion_sync.log 
